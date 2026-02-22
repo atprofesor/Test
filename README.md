@@ -25,14 +25,15 @@ Este proyecto es una página web de una sola pestaña que muestra información s
 
 ## 📁 Estructura del Proyecto
 
+```
 test/
-│
-├── index.html # Página principal del sitio
-├── style.css # Archivo de estilos
-├── README.md # Documentación del proyecto
-├── LICENCE # Licencia MT personal del proyecto
+├── index.html
+├── style.css
+├── README.md
+├── LICENSE
 └── imagenes/
-└── screenshot.png # Captura de pantalla del proyecto
+    └── screenshot.png
+```
 
 ## 🔧 Elementos Demostrados
 
@@ -71,7 +72,7 @@ cd test
 
 #### Abrir el archivo index.html en tu navegador
 
-##🎯 Objetivos de Aprendizaje
+## 🎯 Objetivos de Aprendizaje
 
     ✅ Crear un repositorio en GitHub
 
@@ -85,23 +86,23 @@ cd test
 
     ✅ Trabajar con ramas en Git
 
-##📸 Captura de Pantalla
+## 📸 Captura de Pantalla
 
-https://./imagenes/screenshot.png
+![Vista previa del proyecto](https://./imagenes/screenshot.png)
 
-##🤝 Contribuciones
+## 🤝 Contribuciones
 
 Este es un proyecto de aprendizaje personal, pero si tienes sugerencias o comentarios, ¡son bienvenidos!
 
-##📞 Contacto
+## 📞 Contacto
 
-Alberto Thomas
+**Alberto Thomas**
 
-    📱 Teléfono: 0412-3047853
+- 📱 **Teléfono:** 0412-3047853
 
-    📧 Correo: atprofesor@gmail.com
+- 📧 **Correo:** atprofesor@gmail.com
 
-    🐙 GitHub: @atprofesor
+- 🐙 **GitHub:** [@atprofesor](https://github.com/atprofesor)
 
 ## 📄 Licencia
 
