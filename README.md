@@ -63,14 +63,15 @@ Una vez activado GitHub Pages, puedes ver el sitio en:
 https://atprofesor.github.io/test/
 
 ### Opción 2: Clonar y ejecutar localmente
-
-#### Clonar el repositorio
+```bash
+# Clonar el repositorio
 git clone https://github.com/atprofesor/test.git
 
-#### Navegar al directorio
+# Navegar al directorio
 cd test
 
-#### Abrir el archivo index.html en tu navegador
+# Abrir el archivo index.html en tu navegador
+```
 
 ## 🎯 Objetivos de Aprendizaje
 
@@ -88,7 +89,7 @@ cd test
 
 ## 📸 Captura de Pantalla
 
-![Vista previa del proyecto](https://./imagenes/screenshot.png)
+![Vista previa](https://github.com/atprofesor/Test/raw/main/imagenes/screenshot.png)  /* URL completa raw *
 
 ## 🤝 Contribuciones
 
