@@ -63,15 +63,15 @@ https://atprofesor.github.io/test/
 
 ### Opción 2: Clonar y ejecutar localmente
 
-# Clonar el repositorio
+#### Clonar el repositorio
 git clone https://github.com/atprofesor/test.git
 
-# Navegar al directorio
+#### Navegar al directorio
 cd test
 
-# Abrir el archivo index.html en tu navegador
+#### Abrir el archivo index.html en tu navegador
 
-🎯 Objetivos de Aprendizaje
+##🎯 Objetivos de Aprendizaje
 
     ✅ Crear un repositorio en GitHub
 
@@ -85,13 +85,15 @@ cd test
 
     ✅ Trabajar con ramas en Git
 
-📸 Captura de Pantalla
+##📸 Captura de Pantalla
 
 https://./imagenes/screenshot.png
-🤝 Contribuciones
+
+##🤝 Contribuciones
 
 Este es un proyecto de aprendizaje personal, pero si tienes sugerencias o comentarios, ¡son bienvenidos!
-📞 Contacto
+
+##📞 Contacto
 
 Alberto Thomas
 
@@ -101,8 +103,8 @@ Alberto Thomas
 
     🐙 GitHub: @atprofesor
 
-📄 Licencia
+## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/atprofesor/Test/blob/main/LICENSE) para más detalles.
 
 ⭐️ ¡Gracias por visitar mi primer proyecto en GitHub! ⭐️
