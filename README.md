@@ -26,7 +26,7 @@ Este proyecto es una página web de una sola pestaña que muestra información s
 ## 📁 Estructura del Proyecto
 
 ```
-test/
+Test/
 ├── index.html
 ├── style.css
 ├── README.md
@@ -60,12 +60,12 @@ test/
 ### Opción 1: Ver en GitHub Pages
 Una vez activado GitHub Pages, puedes ver el sitio en:
 
-https://atprofesor.github.io/test/
+https://atprofesor.github.io/Test/
 
 ### Opción 2: Clonar y ejecutar localmente
 ```bash
 # Clonar el repositorio
-git clone https://github.com/atprofesor/test.git
+git clone https://github.com/atprofesor/Test.git
 
 # Navegar al directorio
 cd test
@@ -89,7 +89,7 @@ cd test
 
 ## 📸 Captura de Pantalla
 
-![Vista previa](https://github.com/atprofesor/Test/raw/main/imagenes/screenshot.png)  /* URL completa raw *
+![Vista previa](https://github.com/atprofesor/Test/raw/main/imagenes/screenshot.png)
 
 ## 🤝 Contribuciones
 
